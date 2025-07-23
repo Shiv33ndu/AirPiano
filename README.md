@@ -54,9 +54,9 @@ python air_piano.py
 | Action              | How to do it                                      |
 |---------------------|--------------------------------------------------|
 | Play a note         | Move a fingertip **into** and press **down** on a circular key |
-| Volume control      | Move your **right hand** up/down in the frame    |
-| Visual feedback     | Green circle when finger presses a key           |
-| Multi-hand playing  | Use **both hands** to play chords in real time   |
+| Volume control      | Move your **right hand** up/down in the frame (little bugged)   |
+| Visual feedback     | Green circle when finger presses a key (wokring on it)           |
+| Multi-hand playing  | Use **both hands** to play chords in real time(working on it)   |
 
 ---
 
